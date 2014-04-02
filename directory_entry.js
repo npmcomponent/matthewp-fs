@@ -1,4 +1,4 @@
-var path = require('path');
+var path = require('component-path');
 
 function DirectoryEntry(fullPath, type) {
   this.path = fullPath;

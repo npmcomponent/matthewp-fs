@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [matthewp/fs](http://github.com/matthewp/fs). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/matthewp-fs`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # fs
 
 Bringing a file system abstraction to the browser. **fs** is a [component](https://github.com/component/component) that allows you to store data in the (modern) browser using an API similar to that of Node's [fs module](http://nodejs.org/api/fs.html)

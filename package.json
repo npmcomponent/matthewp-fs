@@ -1,0 +1,10 @@
+{
+  "name": "matthewp-fs",
+  "description": "File system abstraction layer",
+  "version": "0.0.3",
+  "keywords": [],
+  "dependencies": {
+    "component-path": "git://github.com/npmcomponent/component-path.git"
+  },
+  "license": "MIT"
+}

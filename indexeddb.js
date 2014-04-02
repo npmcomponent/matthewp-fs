@@ -1,4 +1,4 @@
-var path = require('path');
+var path = require('component-path');
 
 function ab2str(buf) {
   return String.fromCharCode.apply(null, new Uint16Array(buf));
